@@ -1,0 +1,22 @@
+---
+title: "codeBook"
+author: "Sasha"
+date: "8/1/2020"
+output: html_document
+---
+
+## What's in a codeBook? 
+
+### 1. Information about variables and units used, not contained in tidy dataset  
+### 2. Information about summary choices  
+### 3. Information about the experimental study design used  
+  
+#### other tips:      
+
+- section called "study design" with thorough description of how you collected the data  
+
+- section called "code book" with description of variables and its units  
+
+#### Downloading files:  
+
+- record date when you download the data (downloadDate <- date())  
